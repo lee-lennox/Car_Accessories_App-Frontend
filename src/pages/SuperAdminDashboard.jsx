@@ -674,3 +674,4 @@ const styles = {
         boxSizing: 'border-box',
     },
 };
+//end of a class
